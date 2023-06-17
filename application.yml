@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config-server
+    name: config-server-new
 eureka:
   client:
     register-with-eureka: true
